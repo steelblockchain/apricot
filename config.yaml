@@ -1,0 +1,3 @@
+api:
+    port: 5050
+    ws: /ws-api
