@@ -16,6 +16,6 @@
     "author": "Mrpot",
     "license": "ISC",
     "dependencies": {
-        "abricot": "^0.0.14"
+        "abricot": "^0.0.15"
     }
 }
